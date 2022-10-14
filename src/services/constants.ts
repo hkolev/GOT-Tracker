@@ -1,5 +1,5 @@
 const DEFAUL_URL = 'https://imdb-api.com/en/API';
-const API_KEY = 'k_xnyj0bsu';
+const API_KEY = 'k_x0hhhcqn';
 
 const GOT_ID = 'tt0944947';
 

@@ -48,7 +48,6 @@ export const Series = () => {
                     title={`Game of thrones season ${el}`}
                     image={data.image}
                     plot={data.plot}
-                    // withFavourite
                     redirectUrl={`/series/${el}`}
                     withLearnMore
                   />
